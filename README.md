@@ -1,6 +1,7 @@
 # Привет! Я Дмитрий 👋 / Hello! I'm Dmitry 👋
 
 Я начинающий frontend-разработчик, увлечённый созданием адаптивных и удобных интерфейсов. Учусь и постоянно развиваюсь в сфере веб-разработки. Сейчас изучаю **Angular**.
+
 I am a junior frontend developer passionate about creating responsive and user-friendly interfaces. I am continuously learning and developing in the field of web development. Currently, I am studying **Angular**.
 
 ## 🧰 Технологии, с которыми работаю / Technologies I work with:

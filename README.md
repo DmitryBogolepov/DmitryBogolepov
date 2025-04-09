@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я Дмитрий 👋 / Hello! I'm Dmitry 👋
 
-<!--
-**DmitryBogolepov/DmitryBogolepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий frontend-разработчик, увлечённый созданием адаптивных и удобных интерфейсов. Учусь и постоянно развиваюсь в сфере веб-разработки. Сейчас изучаю **Angular**.
+I am a junior frontend developer passionate about creating responsive and user-friendly interfaces. I am continuously learning and developing in the field of web development. Currently, I am studying **Angular**.
 
-Here are some ideas to get you started:
+## 🧰 Технологии, с которыми работаю / Technologies I work with:
+- HTML, CSS, JavaScript
+- SASS / LESS, BEM
+- Git, Webpack, Gulp
+- TypeScript
+- Работа с REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Курсы и образование / Courses and Education:
+- ВГТУ — Прикладная информатика / Volgograd State Technical University — Applied Informatics (bachelor degree)
+- Переподготовка — Системы Искусственного Интеллекта / Volgograd State Technical University. Retraining — Artificial Intelligence Systems
+- Онлайн-курсы: Itlogia (Frontend Developer) / Online Courses: Itlogia (Frontend Developer)
+
+## 📬 Связь / Contact:
+- Email: dimonatriq@gmail.com
+- Telegram: @nisho_niznay

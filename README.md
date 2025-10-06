@@ -1,15 +1,16 @@
 # Привет! Я Дмитрий 👋 / Hello! I'm Dmitry 👋
 
-Я начинающий frontend-разработчик, увлечённый созданием адаптивных и удобных интерфейсов. Учусь и постоянно развиваюсь в сфере веб-разработки. Сейчас изучаю **Angular**.
+Я frontend-разработчик, увлечённый созданием адаптивных и удобных интерфейсов. Учусь и постоянно развиваюсь в сфере веб-разработки.
 
-I am a junior frontend developer passionate about creating responsive and user-friendly interfaces. I am continuously learning and developing in the field of web development. Currently, I am studying **Angular**.
+I am frontend developer passionate about creating responsive and user-friendly interfaces. I am continuously learning and developing in the field of web development.
 
 ## 🧰 Технологии, с которыми работаю / Technologies I work with:
-- HTML, CSS, JavaScript
-- SASS / LESS, BEM
+- HTML 
+- CSS, SASS / LESS, BEM
 - Git, Webpack, Gulp
-- TypeScript
+- JavaScript, TypeScript
 - Работа с REST API
+- Angular, RxJs
 
 ## 📚 Курсы и образование / Courses and Education:
 - ВГТУ — Прикладная информатика / Volgograd State Technical University — Applied Informatics (bachelor degree)
@@ -19,3 +20,4 @@ I am a junior frontend developer passionate about creating responsive and user-f
 ## 📬 Связь / Contact:
 - Email: dimonatriq@gmail.com
 - Telegram: @nisho_niznay
+- Number: +79876546882

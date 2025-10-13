@@ -10,7 +10,7 @@ I am frontend developer passionate about creating responsive and user-friendly i
 - Git, Webpack, Gulp
 - JavaScript, TypeScript
 - Работа с REST API
-- Angular, RxJs
+- Angular, RxJs, Angular Material
 
 ## 📚 Курсы и образование / Courses and Education:
 - ВГТУ — Прикладная информатика / Volgograd State Technical University — Applied Informatics (bachelor degree)
@@ -21,3 +21,6 @@ I am frontend developer passionate about creating responsive and user-friendly i
 - Email: dimonatriq@gmail.com
 - Telegram: @nisho_niznay
 - Number: +79876546882
+
+## Локация / Location
+Россия г.Волгоград/ Russia Volgograd

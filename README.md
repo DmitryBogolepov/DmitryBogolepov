@@ -4,7 +4,7 @@
 
 I am frontend developer passionate about creating responsive and user-friendly interfaces. I am continuously learning and developing in the field of web development.
 
-## 🧰 Технологии, с которыми работаю / Technologies I work with:
+## Технологии, с которыми работаю / Technologies I work with:
 - HTML 
 - CSS, SASS / LESS, BEM
 - Git, Webpack, Gulp
@@ -12,12 +12,12 @@ I am frontend developer passionate about creating responsive and user-friendly i
 - Работа с REST API
 - Angular, RxJs, Angular Material
 
-## 📚 Курсы и образование / Courses and Education:
+## Курсы и образование / Courses and Education:
 - ВГТУ — Прикладная информатика / Volgograd State Technical University — Applied Informatics (bachelor degree)
 - Переподготовка — Системы Искусственного Интеллекта / Volgograd State Technical University. Retraining — Artificial Intelligence Systems
 - Онлайн-курсы: Itlogia (Frontend Developer) / Online Courses: Itlogia (Frontend Developer)
 
-## 📬 Связь / Contact:
+## Связь / Contact:
 - Email: dimonatriq@gmail.com
 - Telegram: @nisho_niznay
 - Number: +79876546882

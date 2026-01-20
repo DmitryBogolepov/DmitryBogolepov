@@ -19,7 +19,7 @@ I am frontend developer passionate about creating responsive and user-friendly i
 
 ## Связь / Contact:
 - Email: dimonatriq@gmail.com
-- Telegram: @nisho_niznay
+- Telegram: @dmitry_bogolepov
 - Number: +79876546882
 
 ## Локация / Location
